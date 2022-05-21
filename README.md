@@ -6,4 +6,3 @@
 1. Implementasikan perhitungan NDCG pada rating-rating terhadap user yang bersesuaian
 1. Posongan skeleton daapt dilihat pada https://colab.research.google.com/drive/1eRpaotC_lUmur7ccGfwXGjhMFQiHLoX6?usp=sharing
 1. Simpan file dengan format NIM_Nama.ipynb
-1. Unggah file  NIM_Nama.ipynb yang sudah dikompilasi ke lms sebelum Senin, 04 April 2022 jam 17.00
